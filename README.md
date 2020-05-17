@@ -1,1 +1,1 @@
-# angularjs-print-selected-data-from-table
+# AngularJs print selected data from table
