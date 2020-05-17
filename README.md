@@ -1,0 +1,1 @@
+# angularjs-print-selected-data-from-table
